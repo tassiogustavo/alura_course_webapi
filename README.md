@@ -1,16 +1,25 @@
-# flutter_webapi_second_course
+# Curso Alura - Integração de Web API em Flutter
 
-Aplicação para o segundo curso de WebAPI da Formação Flutter da Alura
+![alura_webapi](https://github.com/tassiogustavo/alura_course_webapi/assets/70405308/1d5c1c6e-129e-4472-883c-b368a37388ac)
 
-## Getting Started
+Este projeto foi desenvolvido como parte de 2 cursos da Alura, que faz parte da formação de Flutter. O objetivo deste projeto é demonstrar como integrar uma Web API a um aplicativo Flutter, incluindo a implementação de autenticação no login por meio da Web API e o uso de um servidor local em Node.js para simular a funcionalidade da API.
 
-This project is a starting point for a Flutter application.
+## Descrição do Projeto
 
-A few resources to get you started if this is your first Flutter project:
+O projeto consiste em um aplicativo de exemplo que demonstra como fazer solicitações HTTP a uma Web API a partir de um aplicativo Flutter. Ele inclui uma implementação de autenticação no login, onde os dados do usuário são verificados por meio da Web API. Além disso, o projeto utiliza um servidor local em Node.js para simular a funcionalidade da Web API.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Conteúdo do Curso
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+O curso da Alura abrange os seguintes tópicos:
+
+- Introdução à Integração de Web API
+- Solicitações HTTP em Flutter
+- Autenticação de Login com a Web API
+- Uso de um Servidor Local com Node.js
+
+## Tecnologias Utilizadas
+
+- Flutter
+- Dart
+- Node.js
+- Web API (Incluindo autenticação)
